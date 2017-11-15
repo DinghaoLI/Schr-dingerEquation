@@ -1,0 +1,51 @@
+Le projet est sur 5 semaines : 5 séances de TP
+
+A la place du 6e séance il y aura une soutenance.
+
+Le plus gros boulot se fera en TP
+
+Accès à gitlab de l'école: stocker l'état d'avancement avec le login d'un binôme
+
+Mot de passe : même que session ordi
+
+A la racine du dossier un dossier AUTHORS contenant les noms des binômes
+AUTHORS
+readme.md
+LICENCE
+INSTALL
+Makefile contenu à montrer à la présentation
+
+Le projet devra être en C++ 11 et/ou optionnellement avec du python (aller avec librairie: on ne fait pas encore de binding -> en python 2)
+
+Documentation du code: absolument exister générer avec Doxygen
+
+La chaîne de compilation doit 
+
+Présentation:
+
+doit être dans pres/index.html
+
+le prof donnera un template
+
+-> le jour de la présentation
+
+format remark.js markdown en html
+
+git: autant de branche possible, mais le résultat final est dans Master
+(il faut bosser avec les autres branches)
+
+BONUS: montrer en temps réel le dépôt
+git
+historique taille des commits : plus c'est petit c'est mieux
+compilation pas warning ... génération binding
+source code propre
+test unitaire doit passer
+etendre à d'autres trucs inattendu
+ex: courbe la dépendance
+répondre au cahier des charges mais rester inventif
+Mode : livré un soft à une entreprise
+
+tp0
+
+à l'intérieur initialiser le dépôt git
+job de préparation
